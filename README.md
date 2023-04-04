@@ -22,4 +22,3 @@ The Workout App includes the following features:
 * Vue 3.0.0
 * VueX 4.0.2
 * Vue Router 4.0.0
-* 
