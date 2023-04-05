@@ -12,7 +12,7 @@ The Workout App includes the following features:
 
 ## Setup project
 
-1. Clone the repository from GitHub `$ git clone https://github.com/NPavliuk/string-converter.git`
+1. Clone the repository from GitHub `$ git clone https://github.com/NPavliuk/vue-workout-app.git`
 2. Install the dependencies using `npm install`.
 3. Run the app using `npm run serve`.
 4. Navigate to http://localhost:8080 in your browser.
